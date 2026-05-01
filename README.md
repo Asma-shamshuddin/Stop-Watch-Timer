@@ -78,7 +78,7 @@ This project is designed with a clean UI, smooth user experience, and mobile-fri
 Clone the project:
 
 ```bash
-git clone https://github.com/Asma-shamshuddin
+git clone https://github.com/Asma-shamshuddin/Stop-Watch-Timer
 ```
 
 Go to project folder:
@@ -119,9 +119,9 @@ src/
 
 Built with dedication and creativity ❤️
 
-GitHub: [https://github.com/your-github-username](https://github.com/your-github-username)
+GitHub: https://github.com/Asma-shamshuddin
 
-LinkedIn: Add your LinkedIn profile link here
+LinkedIn: www.linkedin.com/in/asma-begum-052a0a360
 
 ---
 
@@ -135,6 +135,3 @@ If you like this project:
 
 ---
 
-## 📜 License
-
-This project is open source and available for learning and personal use.
