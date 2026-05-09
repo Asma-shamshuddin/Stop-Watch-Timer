@@ -22,8 +22,12 @@ This project is designed with a clean UI, smooth user experience, and mobile-fri
 ---
 
 ## 📸 Preview
+<img width="1920" height="925" alt="image" src="https://github.com/user-attachments/assets/a49199cf-1421-4fbc-938c-0eaba7276c79" />
+<img width="1920" height="926" alt="image" src="https://github.com/user-attachments/assets/a5ae7451-fe8b-48e6-bbeb-db6b0da3a104" />
+<img width="1920" height="914" alt="image" src="https://github.com/user-attachments/assets/717f4230-6dd5-4306-801b-45afd0c25160" />
 
-Add your project screenshot here
+
+
 
 ---
 
@@ -74,7 +78,7 @@ Add your project screenshot here
 Clone the project:
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Asma-shamshuddin/Stop-Watch-Timer
 ```
 
 Go to project folder:
@@ -115,9 +119,9 @@ src/
 
 Built with dedication and creativity ❤️
 
-GitHub: [https://github.com/your-github-username](https://github.com/your-github-username)
+GitHub: https://github.com/Asma-shamshuddin
 
-LinkedIn: Add your LinkedIn profile link here
+LinkedIn: www.linkedin.com/in/asma-begum-052a0a360
 
 ---
 
@@ -131,6 +135,3 @@ If you like this project:
 
 ---
 
-## 📜 License
-
-This project is open source and available for learning and personal use.
