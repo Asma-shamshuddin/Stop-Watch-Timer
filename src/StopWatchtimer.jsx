@@ -88,7 +88,7 @@ const StopWatchtimer = () => {
         </button>
 
       </div>
-      <div className={`flex items-center justify-center flex-col mt-5    border border-white/50 rounded-3xl w-[80%] sm:w-[90%] max-w-md h-[500px] sm:h-[600px]   shadow-[0_10px_30px_rgba(0,0,0,0.15)] p-6 sm:p-8
+      <div className={`flex items-center justify-center flex-col mt-5    border border-white/50 rounded-3xl w-[80%] sm:w-[90%] max-w-md mb-10 shadow-[0_10px_30px_rgba(0,0,0,0.15)] p-6 sm:p-8
         ${darkMode ? "bg-[#F4C9CC] text-[#2B1E1E]" : "bg-[#B63E57] text-white"}`} >
 
       <div className='flex items-center justify-center flex-col   '>
@@ -126,12 +126,12 @@ const StopWatchtimer = () => {
       </button>
      </div>
 
-      <div className='mt-5 w-full overflow-y-auto '>
+      <div className='mt-5 w-full  '>
              
         {laps.map((lap,index) => (
                    
           <div key={index}
-          className=" bg-[#f4dfe0] w-full mt-2 px-4 py-2 m-2 flex items-center  justify-between rounded-2xl text-sm sm:text-base 
+          className=" bg-[#f4dfe0] w-full mt-2 px-4 py-2 m-2 mb-4 flex items-center  justify-between rounded-2xl text-sm sm:text-base 
           ">
             <span className='font-medium'>Lap {index + 1}</span>
             <span className= {`font-semibold
