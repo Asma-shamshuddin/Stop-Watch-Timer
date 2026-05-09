@@ -23,8 +23,9 @@ This project is designed with a clean UI, smooth user experience, and mobile-fri
 
 ## 📸 Preview
 <img width="1920" height="925" alt="image" src="https://github.com/user-attachments/assets/a49199cf-1421-4fbc-938c-0eaba7276c79" />
-<img width="1920" height="926" alt="image" src="https://github.com/user-attachments/assets/a5ae7451-fe8b-48e6-bbeb-db6b0da3a104" />
-<img width="1920" height="914" alt="image" src="https://github.com/user-attachments/assets/717f4230-6dd5-4306-801b-45afd0c25160" />
+<img width="1920" height="922" alt="image" src="https://github.com/user-attachments/assets/46c46345-7d35-4c95-b3fd-a9a327583e70" />
+<img width="1920" height="925" alt="image" src="https://github.com/user-attachments/assets/91116d1a-ad9d-45bc-ba0d-043acc628b0f" />
+
 
 
 
