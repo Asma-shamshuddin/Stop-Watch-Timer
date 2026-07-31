@@ -17,7 +17,7 @@ This project is designed with a clean UI, smooth user experience, and mobile-fri
 
 ## 🚀 Live Demo
 
-[https://stopwatchtimer-asma.netlify.app]
+htpps://stopwatchtimer-asma.netlify.app
 
 ---
 
